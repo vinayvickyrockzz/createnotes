@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>number-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 17:11:56</sys_created_on>
+        <sys_id>3587ad4983542210eb103596feaad389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number-FieldValue</sys_name>
+        <sys_package display_value="createNotes" source="x_1309020_createno">dbf62d4983142210eb103596feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="createNotes">dbf62d4983142210eb103596feaad30b</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3587ad4983542210eb103596feaad389</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 17:11:56</sys_updated_on>
+        <view_config display_value="createnotes Detail Screen View Config">3d87ad4983542210eb103596feaad384</view_config>
+        <view_template_slot display_value="text_02">6c738dbc41e35010f877183fc9b8be9a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

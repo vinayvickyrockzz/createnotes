@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (createnotes)">8287ad4983542210eb103596feaad39e</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (createnotes)</name>
+        <order/>
+        <parent>3587ad4983542210eb103596feaad38e</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 17:11:57</sys_created_on>
+        <sys_id>4e87ad4983542210eb103596feaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (createnotes)</sys_name>
+        <sys_package display_value="createNotes" source="x_1309020_createno">dbf62d4983142210eb103596feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="createNotes">dbf62d4983142210eb103596feaad30b</sys_scope>
+        <sys_update_name>sys_sg_button_instance_4e87ad4983542210eb103596feaad3b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 17:11:57</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=4e87ad4983542210eb103596feaad3b8"/>
+</record_update>
